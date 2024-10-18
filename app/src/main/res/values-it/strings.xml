@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">RockPaperScissorsApp</string>
     <string name="rock_paper_scissors">Sasso Carta Forbici</string>
     <string name="rock">🪨</string>
     <string name="paper">📄</string>
     <string name="scissors">✂️</string>
     <string name="play">Gioca</string>
+    <string name="victory_message">L\'avversario ha fatto %1$s, hai vinto!</string>
+    <string name="defeat_message">L\'avversario ha fatto %1$s, hai perso.</string>
+    <string name="select_move">Per favore, seleziona una mossa!</string>
+    <string name="draw_message">Entrambi avete scelto %1$s, è un pareggio!</string>
 </resources>
