@@ -1,19 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
-    android:layout_width="match_parent"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:padding="16dp">
 
+    <!-- Toolbar with App Title -->
     <TextView
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF5722"
+        android:text="@string/rock_paper_scissors"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:padding="16dp"/>
+
+    <!-- RadioGroup for Rock, Paper, Scissors choices -->
+    <RadioGroup
+        android:id="@+id/choiceGroup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:orientation="horizontal"
+        android:layout_below="@id/toolbar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+        <!-- Rock choice -->
+        <RadioButton
+            android:id="@+id/rockChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rock"
+            android:textSize="40sp"/>
+
+        <!-- Paper choice -->
+        <RadioButton
+            android:id="@+id/paperChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/paper"
+            android:textSize="40sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"/>
+
+        <!-- Scissors choice -->
+        <RadioButton
+            android:id="@+id/scissorsChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/scissors"
+            android:textSize="40sp"/>
+
+    </RadioGroup>
+
+    <!-- Button to submit the choice -->
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/choiceGroup"
+        android:layout_marginTop="30dp"
+        android:text="@string/play"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FF5722"/>
+
+</RelativeLayout>

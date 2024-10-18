@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rock_paper_scissors">Sasso Carta Forbici</string>
+    <string name="rock">🪨</string>
+    <string name="paper">📄</string>
+    <string name="scissors">✂️</string>
+    <string name="play">Gioca</string>
+</resources>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RockPaperScissorsApp</string>
+    <string name="rock_paper_scissors">Rock Paper Scissors</string>
+    <string name="rock">🪨</string>
+    <string name="paper">📄</string>
+    <string name="scissors">✂️</string>
+    <string name="play">Play</string>
 </resources>
