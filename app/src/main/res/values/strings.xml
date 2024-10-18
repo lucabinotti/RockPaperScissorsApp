@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RockPaperScissorsApp</string>
+    <string name="rock_paper_scissors">Rock Paper Scissors</string>
+    <string name="rock">🪨</string>
+    <string name="paper">📄</string>
+    <string name="scissors">✂️</string>
+    <string name="play">Play</string>
+    <string name="victory_message">The opponent chose %1$s, you won!</string>
+    <string name="defeat_message">The opponent chose %1$s, you lost.</string>
+    <string name="select_move">Please select a move!</string>
+    <string name="draw_message">You both chose %1$s, it\'s a draw!</string>
+</resources>

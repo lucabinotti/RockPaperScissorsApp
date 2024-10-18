@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id choiceGroup
+id main
+id paperChoice
+id playButton
+id rockChoice
+id scissorsChoice
+id toolbar
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string defeat_message
+string draw_message
+string paper
+string play
+string rock
+string rock_paper_scissors
+string scissors
+string select_move
+string victory_message
+style Base.Theme.RockPaperScissorsApp
+style Theme.RockPaperScissorsApp
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:background="#FFFFFF">
+
+    <!-- Toolbar with App Title -->
+    <TextView
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF5722"
+        android:text="@string/rock_paper_scissors"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:padding="16dp"/>
+
+    <!-- RadioGroup for Rock, Paper, Scissors choices -->
+    <RadioGroup
+        android:id="@+id/choiceGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/toolbar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginBottom="50dp">
+
+        <!-- Rock choice -->
+        <RadioButton
+            android:id="@+id/rockChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rock"
+            android:textSize="40sp"
+            android:layout_marginEnd="30dp"/>
+
+        <!-- Paper choice -->
+        <RadioButton
+            android:id="@+id/paperChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/paper"
+            android:textSize="40sp"
+            android:layout_marginStart="30dp"
+            android:layout_marginEnd="30dp"/>
+
+        <!-- Scissors choice -->
+        <RadioButton
+            android:id="@+id/scissorsChoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/scissors"
+            android:textSize="40sp"
+            android:layout_marginStart="30dp"/>
+
+    </RadioGroup>
+
+    <!-- Button to submit the choice -->
+    <Button
+        android:id="@+id/playButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/choiceGroup"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
+        android:text="@string/play"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#FF5722"
+        android:padding="16dp"
+        android:textSize="18sp"/>
+
+</RelativeLayout>

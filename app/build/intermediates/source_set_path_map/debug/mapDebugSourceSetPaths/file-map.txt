@@ -1,0 +1,34 @@
+com.example.rockpaperscissorsapp-lifecycle-process-2.6.1-0 C:\Users\binot\.gradle\caches\transforms-4\073d363ee8cecc2d48586fb2d0ad9014\transformed\lifecycle-process-2.6.1\res
+com.example.rockpaperscissorsapp-constraintlayout-2.1.4-1 C:\Users\binot\.gradle\caches\transforms-4\0b85ffdc262bd41279ef498d1d7c69fc\transformed\constraintlayout-2.1.4\res
+com.example.rockpaperscissorsapp-profileinstaller-1.3.0-2 C:\Users\binot\.gradle\caches\transforms-4\18eb675204f257a43e3d82cfd70df98b\transformed\profileinstaller-1.3.0\res
+com.example.rockpaperscissorsapp-startup-runtime-1.1.1-3 C:\Users\binot\.gradle\caches\transforms-4\375b2686006ec7928881719a41120544\transformed\startup-runtime-1.1.1\res
+com.example.rockpaperscissorsapp-core-ktx-1.10.1-4 C:\Users\binot\.gradle\caches\transforms-4\3c703e79a0f52c7e9d9a2094bb2d85fa\transformed\core-ktx-1.10.1\res
+com.example.rockpaperscissorsapp-annotation-experimental-1.3.0-5 C:\Users\binot\.gradle\caches\transforms-4\578badb3d07f5caace9bab01db5e045f\transformed\annotation-experimental-1.3.0\res
+com.example.rockpaperscissorsapp-lifecycle-runtime-2.6.1-6 C:\Users\binot\.gradle\caches\transforms-4\5d841003b3a6cd865ae60b32431085bd\transformed\lifecycle-runtime-2.6.1\res
+com.example.rockpaperscissorsapp-coordinatorlayout-1.1.0-7 C:\Users\binot\.gradle\caches\transforms-4\60f9b3f8a6f5930d7f32116e137fd70f\transformed\coordinatorlayout-1.1.0\res
+com.example.rockpaperscissorsapp-recyclerview-1.1.0-8 C:\Users\binot\.gradle\caches\transforms-4\68405217e913ce3344a52911ad440c1f\transformed\recyclerview-1.1.0\res
+com.example.rockpaperscissorsapp-transition-1.2.0-9 C:\Users\binot\.gradle\caches\transforms-4\68539c8c8468b443a0c92272a53db43d\transformed\transition-1.2.0\res
+com.example.rockpaperscissorsapp-lifecycle-livedata-2.6.1-10 C:\Users\binot\.gradle\caches\transforms-4\69d724343d5eb4791da44a8c200e2312\transformed\lifecycle-livedata-2.6.1\res
+com.example.rockpaperscissorsapp-cardview-1.0.0-11 C:\Users\binot\.gradle\caches\transforms-4\7679f7653838976579ec01fe9f68f0e5\transformed\cardview-1.0.0\res
+com.example.rockpaperscissorsapp-lifecycle-viewmodel-savedstate-2.6.1-12 C:\Users\binot\.gradle\caches\transforms-4\7e7a23ebf672d5f4891e919d6d0fa1ed\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.rockpaperscissorsapp-emoji2-views-helper-1.2.0-13 C:\Users\binot\.gradle\caches\transforms-4\86a88d4b9d414fd5a8a02d133a0862a3\transformed\emoji2-views-helper-1.2.0\res
+com.example.rockpaperscissorsapp-lifecycle-livedata-core-2.6.1-14 C:\Users\binot\.gradle\caches\transforms-4\8f2333f12afae36657377ff6c591d1fd\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.rockpaperscissorsapp-viewpager2-1.0.0-15 C:\Users\binot\.gradle\caches\transforms-4\915ec7cc4e0b0c75a74d14144094abfd\transformed\viewpager2-1.0.0\res
+com.example.rockpaperscissorsapp-appcompat-1.6.1-16 C:\Users\binot\.gradle\caches\transforms-4\9197d4e21a80e461cfaed2c2dce80aac\transformed\appcompat-1.6.1\res
+com.example.rockpaperscissorsapp-savedstate-1.2.1-17 C:\Users\binot\.gradle\caches\transforms-4\a43602fb57bd2021e4ebb75ebff82d1c\transformed\savedstate-1.2.1\res
+com.example.rockpaperscissorsapp-core-runtime-2.2.0-18 C:\Users\binot\.gradle\caches\transforms-4\b9d1d0aeee9ee5d0cdcaca2563e19cd3\transformed\core-runtime-2.2.0\res
+com.example.rockpaperscissorsapp-activity-1.8.0-19 C:\Users\binot\.gradle\caches\transforms-4\c7cb530795c30b080d96b46219cccd29\transformed\activity-1.8.0\res
+com.example.rockpaperscissorsapp-appcompat-resources-1.6.1-20 C:\Users\binot\.gradle\caches\transforms-4\ca09279823a75bbba56180c4f0f586e8\transformed\appcompat-resources-1.6.1\res
+com.example.rockpaperscissorsapp-fragment-1.3.6-21 C:\Users\binot\.gradle\caches\transforms-4\cf6ff53b84d73ab124c6b78d064ac372\transformed\fragment-1.3.6\res
+com.example.rockpaperscissorsapp-drawerlayout-1.1.1-22 C:\Users\binot\.gradle\caches\transforms-4\d3d20adcd3b9942113db4818164ddef2\transformed\drawerlayout-1.1.1\res
+com.example.rockpaperscissorsapp-core-1.10.1-23 C:\Users\binot\.gradle\caches\transforms-4\d58b4bd4da648209cfce8dceb3797385\transformed\core-1.10.1\res
+com.example.rockpaperscissorsapp-lifecycle-viewmodel-2.6.1-24 C:\Users\binot\.gradle\caches\transforms-4\e264cdf892469add2414490facea19c9\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.rockpaperscissorsapp-material-1.10.0-25 C:\Users\binot\.gradle\caches\transforms-4\f3a0831303cb6634b8c5b03683b5047c\transformed\material-1.10.0\res
+com.example.rockpaperscissorsapp-emoji2-1.2.0-26 C:\Users\binot\.gradle\caches\transforms-4\f92526753734e0b8f6c226f6f52e1c6e\transformed\emoji2-1.2.0\res
+com.example.rockpaperscissorsapp-pngs-27 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\build\generated\res\pngs\debug
+com.example.rockpaperscissorsapp-resValues-28 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\build\generated\res\resValues\debug
+com.example.rockpaperscissorsapp-packageDebugResources-29 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.rockpaperscissorsapp-packageDebugResources-30 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.rockpaperscissorsapp-debug-31 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.rockpaperscissorsapp-debug-32 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\src\debug\res
+com.example.rockpaperscissorsapp-main-33 C:\Users\binot\Documents\Applicazioni mobili\rockpaperscissorsapp\app\src\main\res
